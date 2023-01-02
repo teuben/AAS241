@@ -6,12 +6,14 @@
 
   * Automating Tasks with the Unix Shell (2)
     * https://swcarpentry.github.io/shell-novice/
+    * https://carpentries-incubator.github.io/shell-extras/
   * Building Programs with Python (3)
     * https://swcarpentry.github.io/python-novice-inflammation/
     * https://swcarpentry.github.io/python-novice-gapminder/
   * Version Control with Git (2)
     * https://swcarpentry.github.io/git-novice/
     * https://carpentries-incubator.github.io/git-novice-branch-pr/
+    * https://carpentries-incubator.github.io/git-Rstudio-course/
   * TBD (1)
   * A full set of SC lessons:
     * https://software-carpentry.org/lessons/
