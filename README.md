@@ -2,13 +2,26 @@
 
 ## Software Carpentry
 
-* SWC website: https://abostroem.github.io/2023-01-07-aas-swc/
+* SWC website for this meeting: https://abostroem.github.io/2023-01-07-aas-swc/
 
   * Automating Tasks with the Unix Shell (2)
+    * https://swcarpentry.github.io/shell-novice/
   * Building Programs with Python (3)
+    * https://swcarpentry.github.io/python-novice-inflammation/
+    * https://swcarpentry.github.io/python-novice-gapminder/
   * Version Control with Git (2)
+    * https://swcarpentry.github.io/git-novice/
+    * https://carpentries-incubator.github.io/git-novice-branch-pr/
   * TBD (1)
+  * A full set of SC lessons:
+    * https://software-carpentry.org/lessons/
 
+## Miscellaneous
+
+Other entry points for my own codes
+
+* https://github.com/teuben/teunix : my home away from home
+* https://github.com/teuben/nemo : niche C code for stellar dynamics and image processing
 
 ## History
 
@@ -19,16 +32,22 @@ https://cli.github.com/manual/installation
 
 After installing, these were the steps I took:
 
-      gh auth login
+1. first authenticate
 
-after which you can now create a new repo from the commandline
+       gh auth login
 
-      gh repo create --public AAS241
+2. after which you can now create a new repo from the commandline
 
-and after starting a new file README.md adding it
+       gh repo create --public AAS241
 
-      $EDITOR README.md
-      gh add README.md
-      gh commit -m initial README.md
+3. and after starting a new file README.md adding it
+
+       $EDITOR README.md
+       gh add README.md
+       gh commit -m initial README.md
+
+4. whereas for others cloning the repo would be
+
+       git clone https://github.com/teuben/AAS241
 
 
