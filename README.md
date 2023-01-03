@@ -20,10 +20,22 @@
 
 ## Miscellaneous
 
-Other entry points for my own codes
+### Entry points for my own codes
 
 * https://github.com/teuben/teunix : my home away from home
 * https://github.com/teuben/nemo : niche C code for stellar dynamics and image processing
+
+### My Favorite Tools
+
+- editor:        **ec** (logging script to run emacsclient) + persistent
+- shell:         **bash**  with  **aliases.sh**
+- env:           **rc**    (source project dependant files from ~/rc/*.rc)
+- git tool:      **gitk** (and some gitg)
+- diff tool:     **meld**
+- file_manager:  **dolphin**
+- desktop:       **kde**  + persisent, focus-follows-mouse
+- os:            **kubuntu**   (20 and 22 currently)
+- open:          **o=xdg-open**
 
 ## History
 
