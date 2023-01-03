@@ -19,6 +19,10 @@
     * https://carpentries-incubator.github.io/git-novice-branch-pr/
     * https://carpentries-incubator.github.io/git-Rstudio-course/
   * TBD (1)
+    * https://carpentries-incubator.github.io/good-enough-practices/
+    * https://carpentries-incubator.github.io/python-intermediate-development/
+    * https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/
+    * https://carpentries-incubator.github.io/snakemake-novice-bioinformatics/
   * A full set of SC lessons:
     * https://software-carpentry.org/lessons/
 
@@ -33,12 +37,12 @@
 
 - editor:        **ec** (logging script to run emacsclient) + persistent ; org mode for diary
 - shell:         **bash**  with  **aliases.sh**
-- env:           **rc**    (source project dependant files from ~/rc/*.rc)
+- load env:      **rc**    (source project dependant files from ~/rc/*.rc) 
 - git tool:      **gitk** (and some gitg) - also for overleaf!
 - diff tool:     **meld**
-- file_manager:  **dolphin**
-- VNC:           **x2go**
-- desktop:       **kde**  + persisent, focus-follows-mouse
+- file manager:  **dolphin**
+- VNC:           **x2go** + persistent
+- desktop:       **kde**  + persisent, focus-follows-mouse, 3x2 virtual desktops
 - os:            **kubuntu**   (20 and 22 currently)
 - dotfiles:      **teunix** 
 - open:          **o=xdg-open** (on Mac: open)
