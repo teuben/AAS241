@@ -1,4 +1,4 @@
-#  AAS241 Seattle - Jan 2022
+#  AAS241 Seattle - Jan 7-8, 2023
 
 ## Software Carpentry
 
