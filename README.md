@@ -6,7 +6,7 @@
 
   * Lives Notes
     * etherpad: https://pad.carpentries.org/2023-01-07-aas-swc
-    * slack:  https://app.slack.com/client/T043ALX86GG/C042EBLPZLN
+    * slack:  https://app.slack.com/client/T043ALX86GG/C042EBLPZLN  (you would need an invite)
 
 
   * Automating Tasks with the Unix Shell (2)
