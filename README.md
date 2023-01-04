@@ -1,5 +1,7 @@
 #  AAS241 Seattle - Jan 7-8, 2023
 
+My links and notes for AAS241.
+
 ## Software Carpentry
 
 * SWC website for this meeting: https://abostroem.github.io/2023-01-07-aas-swc/
