@@ -27,6 +27,12 @@ My links and notes for AAS241.
     * https://carpentries-incubator.github.io/snakemake-novice-bioinformatics/
   * A full set of SC lessons:
     * https://software-carpentry.org/lessons/
+  * Slides for live coding:
+    * Part 1: local version control: https://slides.com/abostroem/local_version_control
+    * Part 2: collaborating with a trusted collaborator using GitHub: https://slides.com/abostroem/collaborating_using_git
+    * Part 3: open source workflow: https://slides.com/abostroem/open-source-workflow
+
+
 
 ## Miscellaneous
 
