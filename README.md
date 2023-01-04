@@ -53,12 +53,14 @@ In 2022 this was my daily computing environment
 
 ## Git History
 
-How I started this repo?  You can create a new repo graphicall via github.com, but
-this is slightly cumbersome (lot of point and click and back and forth between browser
-and terminal).
-There is a now a new command line interface to github.com available,
+How I started this repo?  You can create a new repo graphicaly via github.com, but
+this is slightly cumbersome (lots of point and click and back and forth between browser
+and terminal, typical instruction pages require screendumps to explain).
+
+There is a now a new command line interface to github.com,
 called "github CLI". This delivers a new command **gh** in your shell. See
-https://cli.github.com/manual/installation 
+https://cli.github.com/manual/installation  It will be able to bypass you having
+to go onto github.com a lot less!
 
 After installing, these were the steps I took:
 
