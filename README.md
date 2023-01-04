@@ -37,6 +37,8 @@ My links and notes for AAS241.
 
 ### My Favorite Tools
 
+In 2022 this was my daily computing environment
+
 - editor:        **ec** (logging script to run emacsclient) + persistent ; org mode for diary
 - shell:         **bash**  with  **aliases.sh**
 - load env:      **rc**    (source project dependant files from ~/rc/*.rc) 
@@ -46,13 +48,14 @@ My links and notes for AAS241.
 - VNC:           **x2go** + persistent
 - desktop:       **kde**  + persisent, focus-follows-mouse, 3x2 virtual desktops
 - os:            **kubuntu**   (20 and 22 currently)
-- dotfiles:      **teunix** 
+- dotfiles:      **teunix** (essential since too often now I bootstrap on a new machine)
 - open:          **o=xdg-open** (on Mac: open)
 
-## History
+## Git History
 
 How I started this repo?  You can create a new repo graphicall via github.com, but
-this is slightly cumbersome (lot of point and click).
+this is slightly cumbersome (lot of point and click and back and forth between browser
+and terminal).
 There is a now a new command line interface to github.com available,
 called "github CLI". This delivers a new command **gh** in your shell. See
 https://cli.github.com/manual/installation 
@@ -91,7 +94,7 @@ After installing, these were the steps I took:
 	$EDITOR index.md
 	gh pr create 
 
-   A lot simpler than the back and forth going on github.com
+   Again, a lot simpler than the back and forth going between github.com and the terminal.
 
    Once the branch has been merged by the upstream, I should remove it:
 
