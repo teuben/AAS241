@@ -9,28 +9,29 @@ My links and notes for AAS241.
   * Lives Notes
     * etherpad: https://pad.carpentries.org/2023-01-07-aas-swc
     * slack: https://app.slack.com/client/T043ALX86GG/C04E62RQF50 (you would need an invite)
-  * Automating Tasks with the Unix Shell (2)
+  * Automating Tasks with the Unix Shell 
     * https://swcarpentry.github.io/shell-novice/
     * https://carpentries-incubator.github.io/shell-extras/
-  * Building Programs with Python (3)
+  * Building Programs with Python 
     * https://swcarpentry.github.io/python-novice-inflammation/
     * https://swcarpentry.github.io/python-novice-gapminder/
     * https://datacarpentry.github.io/astronomy-python
-  * Version Control with Git (2)
+  * Version Control with Git 
     * https://swcarpentry.github.io/git-novice/
     * https://carpentries-incubator.github.io/git-novice-branch-pr/
     * https://carpentries-incubator.github.io/git-Rstudio-course/
-  * TBD (1)
+  * TBD 
     * https://carpentries-incubator.github.io/good-enough-practices/
     * https://carpentries-incubator.github.io/python-intermediate-development/
     * https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/
     * https://carpentries-incubator.github.io/snakemake-novice-bioinformatics/
-  * A full set of SC lessons:
-    * https://software-carpentry.org/lessons/
   * Slides for live coding:
     * Part 1: local version control: https://slides.com/abostroem/local_version_control
     * Part 2: collaborating with a trusted collaborator using GitHub: https://slides.com/abostroem/collaborating_using_git
     * Part 3: open source workflow: https://slides.com/abostroem/open-source-workflow
+  * A full set of SC lessons:
+    * https://software-carpentry.org/lessons/
+    * https://carpentries.org/community-lessons/
 
 
 
