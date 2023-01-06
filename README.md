@@ -16,6 +16,12 @@ My links and notes for AAS241.
     * https://swcarpentry.github.io/python-novice-inflammation/
     * https://swcarpentry.github.io/python-novice-gapminder/
     * https://datacarpentry.github.io/astronomy-python
+    * https://github.com/abostroem/2017-01-03-aas - python/notebooks
+    * https://github.com/abostroem/2018-01-07-aas - code/notebooks
+    * https://github.com/abostroem/2019-01-05-aas - python/notebooks
+    * https://github.com/abostroem/2020-01-04-aas - python/notebooks
+    * https://github.com/abostroem/2022-01-08-aas-swc (none)
+    * https://github.com/abostroem/2022-06-11-aas-swc (none)
   * Version Control with Git 
     * https://swcarpentry.github.io/git-novice/
     * https://carpentries-incubator.github.io/git-novice-branch-pr/
@@ -29,7 +35,7 @@ My links and notes for AAS241.
     * Part 1: local version control: https://slides.com/abostroem/local_version_control
     * Part 2: collaborating with a trusted collaborator using GitHub: https://slides.com/abostroem/collaborating_using_git
     * Part 3: open source workflow: https://slides.com/abostroem/open-source-workflow
-  * A full set of SC lessons:
+  * All SC lessons:
     * https://software-carpentry.org/lessons/
     * https://carpentries.org/community-lessons/
 
