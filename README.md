@@ -20,9 +20,9 @@ My links and notes for AAS241.
         * https://github.com/abostroem/2017-01-03-aas - python/notebooks
     	* https://github.com/abostroem/2018-01-07-aas - code/notebooks
     	* https://github.com/abostroem/2019-01-05-aas - python/notebooks
-    	* https://github.com/abostroem/2020-01-04-aas - python/notebooks
+    	* https://github.com/abostroem/2020-01-04-aas - python/notebooks hubble
     	* https://github.com/abostroem/2022-01-08-aas-swc (none)
-    	* https://github.com/abostroem/2022-06-11-aas-swc (none)
+    	* https://github.com/abostroem/2022-06-11-aas-swc (none) [rudyphd notebooks]
   * Version Control with Git 
     * https://swcarpentry.github.io/git-novice/
     * https://carpentries-incubator.github.io/git-novice-branch-pr/
