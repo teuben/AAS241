@@ -105,15 +105,15 @@ After installing, these were the steps I took:
    in a local branch to prepare a pull request. Lets use the SWC for this
 
         gh repo fork https://github.com/abostroem/2023-01-07-aas-swc
-	cd 2023-01-07-aas-swc
-	git checkout -b teuben1
-	$EDITOR index.md
-	gh pr create 
+        cd 2023-01-07-aas-swc
+        git checkout -b teuben1
+        $EDITOR index.md
+        gh pr create 
 
    Again, a lot simpler than the back and forth going between github.com and the terminal.
 
    Once the branch has been merged by the upstream, I should remove it:
 
         git branch -d teuben1
-	git push original --delete teuben1
+        git push original --delete teuben1
 	
