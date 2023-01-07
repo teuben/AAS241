@@ -80,26 +80,26 @@ After installing, these were the steps I took:
 
 1. first authenticate
 
-       gh auth login
+        gh auth login
 
 2. after which you can now create a new repo from the commandline
 
-       gh repo create --public AAS241
+        gh repo create --public AAS241
 
 3. and after starting a new file README.md adding it
 
-       cd AAS241
-       $EDITOR README.md
-       git add README.md
-       git commit -m initial README.md
+        cd AAS241
+        $EDITOR README.md
+        git add README.md
+        git commit -m initial README.md
 
 4. for others cloning the repo would be 43 characters
 
-       git clone https://github.com/teuben/AAS241
+        git clone https://github.com/teuben/AAS241
 
    for me it would be 28 characters
 
-       gh repo clone teuben/AAS241
+        gh repo clone teuben/AAS241
 
 5. The real power shows when you want to fork a repo and work on it
    in a local branch to prepare a pull request. Lets use the SWC for this
@@ -112,8 +112,10 @@ After installing, these were the steps I took:
 
    Again, a lot simpler than the back and forth going between github.com and the terminal.
 
-   Once the branch has been merged by the upstream, I should remove it:
+   Once the branch has been merged by the upstream, there is no need to keep it.
+   It can be removed as follows:
 
         git branch -d teuben1
         git push original --delete teuben1
+
 	
