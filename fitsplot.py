@@ -99,4 +99,4 @@ pfile = fitsfile[:idx] + ".%s" % ext
 # fig.subplots_adjust(right=0.15)   
 fig.savefig(pfile)
 print("Writing ",pfile)
-plt.show()
+# plt.show()
